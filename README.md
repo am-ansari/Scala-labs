@@ -1,2 +1,2 @@
-# Practice-labs-Scala
+# Scala-labs
  
